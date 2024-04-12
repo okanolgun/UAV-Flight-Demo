@@ -1,0 +1,16 @@
+
+Kızılay, Ankara
+latitude = 39.920873
+longitude = 32.853775
+
+Tüpraş Stadyumu, İstanbul - Home of Beşiktaş
+latitude = 41.039127
+longitude = 28.994848
+
+Tower Bridge, Londra
+latitude = 51.506318
+longitude = -0.078650
+
+Statue of Liberty, America
+latitude = 40.693755
+longitude = -74.036542
