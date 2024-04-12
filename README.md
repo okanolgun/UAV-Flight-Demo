@@ -14,3 +14,4 @@ You can find sample map images in the file.
 
 Unfortunately, during the development process, I could not access a map view that was updated as the drone moved.
 I hope that one day I will update this repository and have access to the application I want.
+ 
